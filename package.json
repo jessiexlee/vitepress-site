@@ -1,0 +1,21 @@
+{
+  "name": "jessie-page",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress",
+    "build": "vitepress build",
+    "serve": "vitepress serve"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.3.1",
+    "cheap-watch": "^1.0.3",
+    "feed": "^4.2.1",
+    "gray-matter": "^4.0.2",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7",
+    "vitepress": "^0.16.0"
+  },
+  "dependencies": {}
+}
