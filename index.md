@@ -1,4 +1,4 @@
 ---
-title: Home
-subtext: Thoughts to share
+title: 
+subtext: Where things happen ......
 ---
